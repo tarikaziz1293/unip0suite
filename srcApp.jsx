@@ -1,1 +1,9 @@
-https://claude.ai/public/artifacts/b72787d0-539d-4e67-beb5-9edd1fa5100a
+import React from 'react';
+
+export default function InventoryDashboard() {
+  return (
+    <div>
+      Inventory Dashboard
+    </div>
+  );
+}
